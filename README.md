@@ -17,12 +17,15 @@ This Jupyter Notebook demonstrates how to connect a MySQL database to Python usi
 
 ### 1. Setting Up the Environment
 Installs the required package (mysql-connector-python).
+
 Imports essential libraries such as mysql.connector and pandas.
 ### 2. Establishing a MySQL Connection
 Connects to a local MySQL database (world) using user credentials.
+
 Creates a cursor to interact with the database.
 ### 3. Query Execution and Data Retrieval
 Executes SQL queries (e.g., SELECT * FROM country) to fetch data.
+
 Uses Python to interact with MySQL for potential data analysis, transformation, or visualization.
 ### 4. Potential Use Cases
 Fetching data from MySQL for analysis in Python.
